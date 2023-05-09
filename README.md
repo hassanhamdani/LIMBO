@@ -1,10 +1,12 @@
 # STUCK IN LIMBO
 Welcome to Stuck in Limbo! We hope you enjoy playing the game as much as we enjoyed creating it.
 
-About the Game:
+## About the Game:
+
 Stuck in Limbo is a single-player adventure game that challenges players to escape from an island filled with zombie fish. The game is designed to convey a sense of freedom and constraint, adventure, and strategy while emphasizing the themes of survival and resourcefulness. The game features engaging combat mechanics, resource management, exploration, and an immersive island environment.
 
-Getting Started:
+## Getting Started:
+
 To start playing the game, simply run the executable file included with the download. The game is compatible with Windows and Mac operating systems. 
 <!-- Make sure your computer meets the minimum system requirements listed below: -->
 
@@ -14,16 +16,19 @@ Memory: 4 GB RAM
 Graphics: NVIDIA GeForce GTX 460 or AMD Radeon HD 6850
 Storage: 1 GB available space -->
 
-Controls:
+## Controls:
+
 Use the WASD keys to move the player character
 Press the space bar to jump
 Press 'E' to interact with objects in the environment
 Use the Left Mouse Click to kill the zombie fish
 
-Playtesting:
+## Playtesting:
+
 During the development process, we conducted extensive playtesting sessions to refine the gameplay mechanics and balance the difficulty level. The game was well-received by playtesters, who found the combat engaging and challenging, with a good balance of exploration and resource management.
 
-Feedback:
+## Feedback:
+
 We are always open to feedback and suggestions to improve the game. If you have any comments or concerns, please feel free to contact us.
 
 Thank you again for playing Stuck in Limbo. We hope you have a great time playing the game!
